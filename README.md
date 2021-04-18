@@ -1,7 +1,7 @@
 ### Hi there 👋
 <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Language-Crystal-%23000.svg"></a>
 
-![Ian's stats](https://github-readme-stats.vercel.app/api?username=redcodefinal&show_icons=true&count_private=true&show_owner=true&theme=radical)
+![Ian's stats](https://github-readme-stats.vercel.app/api?username=sol.vin&show_icons=true&count_private=true&show_owner=true&theme=radical)
 
 ### I Use
  * Crystal
