@@ -15,11 +15,12 @@
 - ⚡ Fun fact: I love esoteric programming languages
 - 📷 I research the security of network cameras
 - 🔆 I created [Celestine](https://github.com/celestinecr/celestine)
+- I bound [libsunvox](https://github.com/sol-vin/libsunvox) and [libraylib](https://github.com/sol-vin/raylib-cr) to Crystal
 
 Send me coffee money!
 
 - BTC: bc1qvsd7l9v2clzvra2n9zqv944r0jnltku7p6wz8k
 - ETH: 0x1460AC202a88844e44F94823056c5b8627D66730
 
-![](https://komarev.com/ghpvc/?username=redcodefinal)
+![](https://komarev.com/ghpvc/?username=sol-vin)
 
