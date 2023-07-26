@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love esoteric programming languages
 - 📷 I research the security of network cameras
 - 🔆 I created [Celestine](https://github.com/celestinecr/celestine)
-- I bound [libsunvox](https://github.com/sol-vin/libsunvox) and [libraylib](https://github.com/sol-vin/raylib-cr) to Crystal
+- 🪢 I bound [libsunvox](https://github.com/sol-vin/libsunvox) and [libraylib](https://github.com/sol-vin/raylib-cr) to Crystal
 
 Send me coffee money!
 
